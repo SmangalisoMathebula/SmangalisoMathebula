@@ -9,21 +9,21 @@ I'm passionate about building practical software solutions, solving real-world p
 
  Technical Skills
 
-- Programming Languages:** C#, Java, Python, SQL
-- Databases:** MySQL, Relational Database Design
-- Development:** Windows Forms, Object-Oriented Programming
-- Tools:** Git, GitHub, NetBeans, MySQL Workbench
+- Programming Languages: C#, Java, Python, SQL
+- Databases: MySQL, Relational Database Design
+- Development: Windows Forms, Object-Oriented Programming
+- Tools: Git, GitHub, NetBeans, MySQL Workbench
 
 Featured Projects
 
 A selection of projects that demonstrate my programming, database management and problem-solving skills.
 
-- **Banking System (C#)** – A banking application featuring account management, deposits, withdrawals, transfers and transaction history.
-- **Password Analyzer (C#)** – A password analysis application focusing on password strength and security requirements.
-- **SkyTrack Aviation (Java)** – An aviation application demonstrating object-oriented programming concepts.
-- **EduLaunch (SQL)** – A database project demonstrating relational database concepts and SQL.
-- **Expense Tracker (Python)** – An expense management application featuring data storage, filtering and reporting.
-- **Learner Progress Tracking System (Python)** – A project focused on tracking and managing learner performance.
+- Banking System (C#) – A banking application featuring account management, deposits, withdrawals, transfers and transaction history.
+- Password Analyzer (C#) – A password analysis application focusing on password strength and security requirements.
+- SkyTrack Aviation (Java) – An aviation application demonstrating object-oriented programming concepts.
+- EduLaunch (SQL) – A database project demonstrating relational database concepts and SQL.
+- Expense Tracker (Python)– An expense management application featuring data storage, filtering and reporting.
+- Learner Progress Tracking System (Python) – A project focused on tracking and managing learner performance.
 
 Other Projects
 
@@ -35,7 +35,7 @@ Additional projects and programming exercises that contribute to my continuous l
 
  Certifications
 
-### Coursera
+Coursera
 - Introduction to Software Engineering
 - Internet of Things: Wireless and Cloud Computing / Emerging Technologies
 - Microsoft Generative AI
