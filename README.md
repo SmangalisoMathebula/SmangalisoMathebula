@@ -29,11 +29,11 @@ I'm passionate about software development, problem-solving and building practica
 
  Java Development
 
-- **Lost and Found App – A web application built using Java Servlets, JSP, MySQL and Apache Tomcat for reporting and managing lost and found items.
+- Lost and Found App – A web application built using Java Servlets, JSP, MySQL and Apache Tomcat for reporting and managing lost and found items.
 
  Database Development
 
-- **EduLaunch SQL – A relational database project featuring 11 tables and reporting views, demonstrating database design and SQL skills.
+- EduLaunch SQL – A relational database project featuring 11 tables and reporting views, demonstrating database design and SQL skills.
 
  Other Projects
 
@@ -96,6 +96,6 @@ Additional projects and programming exercises that contribute to my continuous l
 
   Connect With Me
 
-- **GitHub:** [SmangalisoMathebula](https://github.com/SmangalisoMathebula)
+- GitHub: [SmangalisoMathebula](https://github.com/SmangalisoMathebula)
 
 I'm always eager to learn, collaborate, develop meaningful software solutions and grow as a Software Engineer.
