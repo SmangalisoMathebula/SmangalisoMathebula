@@ -9,31 +9,31 @@ I'm passionate about software development, problem-solving and building practica
 
  Technical Skills
 
-- Programming Languages:** C#, Java, Python, SQL
-- Databases:** MySQL, SQLite, Relational Database Design
-- Development:** Windows Forms, Java Servlets, JSP, Object-Oriented Programming
-- Frameworks & Technologies:** Entity Framework Core
-- Tools:** Git, GitHub, NetBeans, MySQL Workbench, Apache Tomcat
+- Programming Languages: C#, Java, Python, SQL
+- Databases: MySQL, SQLite, Relational Database Design
+- Development: Windows Forms, Java Servlets, JSP, Object-Oriented Programming
+- Frameworks & Technologies: Entity Framework Core
+- Tools: Git, GitHub, NetBeans, MySQL Workbench, Apache Tomcat
 
  Featured Projects
 
  C# Development
 
-- Banking System** – A desktop banking application featuring account management, deposits, withdrawals, transfers and transaction history.
+- Banking System – A desktop banking application featuring account management, deposits, withdrawals, transfers and transaction history.
 
-- Inventory Management** – A Windows Forms application using SQLite, repository classes, input validation and layered architecture.
+- Inventory Management – A Windows Forms application using SQLite, repository classes, input validation and layered architecture.
 
-- Loan Workflow** – A loan management application featuring business rules, repayment calculations, Entity Framework Core and unit testing.
+- Loan Workflow – A loan management application featuring business rules, repayment calculations, Entity Framework Core and unit testing.
 
-- Password Analyzer** – A password analysis application demonstrating object-oriented programming principles and password security requirements.
+- Password Analyzer – A password analysis application demonstrating object-oriented programming principles and password security requirements.
 
  Java Development
 
-- **Lost and Found App** – A web application built using Java Servlets, JSP, MySQL and Apache Tomcat for reporting and managing lost and found items.
+- **Lost and Found App – A web application built using Java Servlets, JSP, MySQL and Apache Tomcat for reporting and managing lost and found items.
 
  Database Development
 
-- **EduLaunch SQL** – A relational database project featuring 11 tables and reporting views, demonstrating database design and SQL skills.
+- **EduLaunch SQL – A relational database project featuring 11 tables and reporting views, demonstrating database design and SQL skills.
 
  Other Projects
 
