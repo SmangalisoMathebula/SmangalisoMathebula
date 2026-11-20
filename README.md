@@ -5,43 +5,52 @@ Hi, I'm Smangaliso Mathebula
 
 I'm an aspiring Software Engineer currently studying at Eduvos in Midrand, South Africa.
 
-I'm passionate about building practical software solutions, solving real-world problems, and continuously improving my programming and software engineering skills.
+I'm passionate about software development, problem-solving and building practical applications that address real-world challenges. I'm continuously developing my technical skills and expanding my knowledge of software engineering principles, database management and application development.
 
  Technical Skills
 
-- Programming Languages: C#, Java, Python, SQL
-- Databases: MySQL, Relational Database Design
-- Development: Windows Forms, Object-Oriented Programming
-- Tools: Git, GitHub, NetBeans, MySQL Workbench
+- Programming Languages:** C#, Java, Python, SQL
+- Databases:** MySQL, SQLite, Relational Database Design
+- Development:** Windows Forms, Java Servlets, JSP, Object-Oriented Programming
+- Frameworks & Technologies:** Entity Framework Core
+- Tools:** Git, GitHub, NetBeans, MySQL Workbench, Apache Tomcat
 
-Featured Projects
+ Featured Projects
 
-A selection of projects that demonstrate my programming, database management and problem-solving skills.
+ C# Development
 
-- Banking System (C#) – A banking application featuring account management, deposits, withdrawals, transfers and transaction history.
-- Password Analyzer (C#) – A password analysis application focusing on password strength and security requirements.
-- SkyTrack Aviation (Java) – An aviation application demonstrating object-oriented programming concepts.
-- EduLaunch (SQL) – A database project demonstrating relational database concepts and SQL.
-- Expense Tracker (Python)– An expense management application featuring data storage, filtering and reporting.
-- Learner Progress Tracking System (Python) – A project focused on tracking and managing learner performance.
+- Banking System** – A desktop banking application featuring account management, deposits, withdrawals, transfers and transaction history.
 
-Other Projects
+- Inventory Management** – A Windows Forms application using SQLite, repository classes, input validation and layered architecture.
 
-Additional projects and programming exercises that contribute to my continuous learning and development.
+- Loan Workflow** – A loan management application featuring business rules, repayment calculations, Entity Framework Core and unit testing.
 
+- Password Analyzer** – A password analysis application demonstrating object-oriented programming principles and password security requirements.
+
+ Java Development
+
+- **Lost and Found App** – A web application built using Java Servlets, JSP, MySQL and Apache Tomcat for reporting and managing lost and found items.
+
+ Database Development
+
+- **EduLaunch SQL** – A relational database project featuring 11 tables and reporting views, demonstrating database design and SQL skills.
+
+ Other Projects
+
+Additional projects and programming exercises that contribute to my continuous learning and technical development.
+
+- SkyTrack Aviation App
+- Expense Tracker
+- Learner Progress Tracking System
 - Hotel Reservation System
 - Student Management System
-- Other programming experiments and learning projects.
 
  Certifications
 
-Coursera
+ Coursera
+
 - Introduction to Software Engineering
 - Internet of Things: Wireless and Cloud Computing / Emerging Technologies
-- Microsoft Generative AI
-- Microsoft Introduction to Git
-- Microsoft Introduction to AI Concepts
-- Microsoft Describe Architectural Components of Azure
 - Get Started with Android App Development
 - Getting Started with Microsoft 365
 - Getting Started with Microsoft Word
@@ -51,33 +60,42 @@ Coursera
 - Python 101
 - Advanced Relational Database and SQL
 
-freeCodeCamp
+ Microsoft Certifications and Learning Credentials
+
+- Microsoft Generative AI
+- Microsoft Introduction to Git
+- Microsoft Introduction to AI Concepts
+- Microsoft Describe Architectural Components of Azure
+
+ freeCodeCamp
+
 - Python Certification
 
- Development Programmes
+  Development Programmes
 
 - Google Developer Program
 - Codecademy
 - DevTown – Web Pentesting Mastery Bootcamp (5-day bootcamp)
 
- Currently Improving
+  Currently Improving
 
 - Object-Oriented Programming
 - Data Structures and Algorithms
-- Software Architecture
+- Software Architecture and Design
 - Database Management
-- Testing and Debugging
+- Unit Testing and Debugging
+- Secure Application Development
 - Version Control and Collaboration
 
- Career Interests
+  Career Interests
 
 - Software Engineering
 - Backend Development
 - Application Development
 - Database Development
 
-Connect With Me
+  Connect With Me
 
-GitHub: [SmangalisoMathebula](https://github.com/SmangalisoMathebula)
+- **GitHub:** [SmangalisoMathebula](https://github.com/SmangalisoMathebula)
 
-I'm always eager to learn, collaborate, build meaningful projects and grow as a Software Engineer.
+I'm always eager to learn, collaborate, develop meaningful software solutions and grow as a Software Engineer.
